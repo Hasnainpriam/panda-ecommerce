@@ -1,3 +1,11 @@
-body{
-  background-color: aqua;
+.image-slider, .sub-background{
+  background-color: #fceae8;
+}
+.my-bg-color{
+  background-color: #ff2379;
+  color: #fceae8;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+  font-weight: bold;
 }
